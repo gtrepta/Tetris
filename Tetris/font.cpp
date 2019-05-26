@@ -5,7 +5,6 @@
 
 GLuint fontOffset;
 GLuint texName;
-uint32_t fontimage[];
 
 // This technique for drawing fonts is given by the
 // OpenGL red book (6th ed. p309)
